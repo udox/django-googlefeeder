@@ -5,7 +5,7 @@
 ### Outline
 
 Code from [Tom Viner](https://github.com/tomviner) to provide a Google
-Product feed for your own models. Do notuse _as is_ because it won't
+Product feed for your own models. Do not use _as is_ because it won't
 work nor match your models! The `google.py` filecan be used entirely
 on it's own (with django!).
 
